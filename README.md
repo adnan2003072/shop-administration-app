@@ -1,6 +1,9 @@
 # Shop administration app
 This is a Java Swing project for managing a shop's administration tasks. It utilizes an Oracle database for data storage.
 
+![Screenshot 2024-04-14 133438](https://github.com/adnan2003072/shop-administration-app/assets/116649345/1326f9f4-c5de-4451-b150-dc96fcb8298d)
+![Screenshot 2024-04-14 133554](https://github.com/adnan2003072/shop-administration-app/assets/116649345/c3f72dfe-a7ab-4d0d-aca1-21922b1842bd)
+
 ### Dependencies
 + Java Development Kit (JDK): version "17.0.8" 2023-07-18 LTS
 + Oracle JDBC Driver: Version 21.1.0.0
